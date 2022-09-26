@@ -1,0 +1,155 @@
+print ('''MEMORIZADOR DE CANÇÕES - CANÇÃO CARTIADA DAS ASAS ROTATIVAS
+(POR ALENCA)''')
+w = 0
+A = 'Sulca o vento a espada que sustenta'
+B = 'O rotativo versátil que encanta'
+C = 'Colibri desafiando o espaço'
+D = 'Baila, gira qual pássaro de aço'
+E = 'O arqueiro alado se compraz'
+F = 'Na amplitude do cíclico e coletivo'
+G = 'Como artífice da guerra perspicaz'
+H = 'Espreitando o perigo sempre altivo'
+I = 'Aviação de asas rotativas'
+J = 'Faz voo divino a pairar'
+K = 'Aos rotores: o sabre'
+L = 'O indelével sobejo dos ares'
+M = 'Rompe o tempo ceifando o inimigo'
+N = 'Com a espada helicoidal e sibilante'
+O = 'Superando contínuos perigos'
+P = 'Quer ativo camuflado ou rasante'
+Q = 'Instrumento de guerra e de paz'
+R = 'Na magnitude de vetor eficaz'
+S = 'Desbravando inatingíveis cantões'
+T = 'Reverbera sonoras ilusões'
+U = 'Aviação de asas rotativas'
+V = 'Faz voo divino a pairar'
+W = 'Aos rotores: o sabre'
+X = 'O indelével sobejo dos ares'
+while w == 0:
+    a = input('')
+    w = w + 1
+    if a == A:
+        b = input ('')
+        if b == B:
+            c = input ('')
+            if c == C:
+                d = input ('')
+                if d == D:
+                    e = input ('')
+                    if e == E:
+                        f = input ('')
+                        if f == F:
+                            g = input ('')
+                            if g == G:
+                                h = input ('')
+                                if h == H:
+                                    i = input ('')
+                                    if i == I:
+                                        j = input ('')
+                                        if j == J:
+                                            k = input ('')
+                                            if k == K:
+                                                l = input ('')
+                                                if l == L:
+                                                    m = input ('')
+                                                    if m == M:
+                                                        n = input ('')
+                                                        if n == N:
+                                                            o = input ('')
+                                                            if o == O:
+                                                                p = input ('')
+                                                                if p == P:
+                                                                    q = input ('')
+                                                                    if q == Q:
+                                                                        r = input ('')
+                                                                        if r == R:
+                                                                            s = input ('')
+                                                                            if s == S:
+                                                                                t = input ('')
+                                                                                if t == T:
+                                                                                    u = input ('')
+                                                                                    if u == U:
+                                                                                        v = input ('')
+                                                                                        if v == V:
+                                                                                            w1 = input ('')
+                                                                                            if w1 == W:
+                                                                                                x = input('')
+                                                                                                if x == X:
+                                                                                                    input ('''Parabéns!
+Você memorizou a canção com louvor e derrotou a liderança.''')
+                                                                                                    input ('Hoje, Brandello chora, pois viu que você é FODA e não levará uma FOBS.')
+                                                                                                    input ('Ao menos, não hoje...')
+                                                                                                    w = w * 0
+                                                                                                                        
+                                                                                                else:
+                                                                                                    input (X)
+                                                                                                    w = w * 0
+                                                                                            else:
+                                                                                                input (W)
+                                                                                                w = w * 0
+                                                                                        else:
+                                                                                            input (V)
+                                                                                            w = w * 0
+                                                                                    else:
+                                                                                        input (U)
+                                                                                        w = w * 0
+                                                                                else:
+                                                                                    input (T)
+                                                                                    w = w * 0
+                                                                            else:
+                                                                                input (S)
+                                                                                w = w * 0
+                                                                        else:
+                                                                            input (R)
+                                                                            w = w * 0
+                                                                    else:
+                                                                        input (Q)
+                                                                        w = w * 0
+                                                                else:
+                                                                    input (P)
+                                                                    w = w * 0
+                                                            else:
+                                                                input (O)
+                                                                w = w * 0
+                                                        else:
+                                                            input (N)
+                                                            w = w * 0
+                                                    else:
+                                                        input (M)
+                                                        w = w * 0
+                                                else:
+                                                    input (L)
+                                                    w = w * 0
+                                            else:
+                                                input (K)
+                                                w = w * 0
+                                        else:
+                                            input (J)
+                                            w = w * 0
+                                    else:
+                                        input (I)
+                                        w = w * 0
+                                else:
+                                    input (H)
+                                    w = w * 0
+                            else:
+                                input (G)
+                                w = w * 0
+                        else:
+                            input (F)
+                            w = w * 0
+                    else:
+                        input (E)
+                        w = w * 0
+                else:
+                    input (D)
+                    w = w * 0
+            else:
+                input (C)
+                w = w * 0
+        else:
+            input (B)
+            w = w * 0
+    else:
+        input (A)
+        w = w * 0
